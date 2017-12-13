@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: APIService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NQUSER
+Implementation-Vendor-Id: com.dev
+Build-Jdk: 1.8.0_40
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
